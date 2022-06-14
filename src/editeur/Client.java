@@ -1,11 +1,11 @@
 package src.editeur;
 
 public class Client {
-    String nom;
-    String prenom;
-    String adresse;
-    int cp;
-    String Ville;
+    private String nom;
+    private String prenom;
+    private String adresse;
+    private int cp;
+    private String Ville;
 
     public Client(String nom, String prenom, String adresse, int cp, String ville) {
         this.nom = nom;
