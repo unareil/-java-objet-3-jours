@@ -1,4 +1,4 @@
-package src.editeur;
+package editeur;
 
 public class Livre {
     private String titre;

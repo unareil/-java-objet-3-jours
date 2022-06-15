@@ -1,4 +1,4 @@
-package src.heritage.organismeDeFormation;
+package heritage.organismeDeFormation;
 
 public class Stagiaire extends Personne{
     private String dateNaissance;

@@ -1,4 +1,4 @@
-package src.editeur;
+package editeur;
 
 public class Client {
     private String nom;

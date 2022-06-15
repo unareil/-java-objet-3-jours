@@ -1,4 +1,4 @@
-package src.heritage.mesMachines;
+package heritage.mesMachines;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package src.heritage.mesMachines;
+package heritage.mesMachines;
 
 public class BassinADecanter {
     private int capaciteHL;

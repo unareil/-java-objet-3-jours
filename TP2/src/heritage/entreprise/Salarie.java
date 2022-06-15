@@ -1,4 +1,4 @@
-package src.heritage.entreprise;
+package heritage.entreprise;
 
 public class Salarie extends Individu {
     private int salaire;

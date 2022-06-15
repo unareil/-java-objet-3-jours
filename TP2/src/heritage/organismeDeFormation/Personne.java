@@ -1,4 +1,4 @@
-package src.heritage.organismeDeFormation;
+package heritage.organismeDeFormation;
 
 public  abstract class Personne {
     private String nom;

@@ -1,4 +1,4 @@
-package src.heritage.organismeDeFormation;
+package heritage.organismeDeFormation;
 
 public class Formateur extends Personne {
     static private int nombreIntervenant;

@@ -1,4 +1,4 @@
-package src.editeur;
+package editeur;
 
 public class TestLivre {
     public static void main(String[] args) {
