@@ -1,0 +1,2 @@
+Attention, n'hésitez pas utiliser les setter dans le constructeur, éviter de plus la concaténation de chaîne dans le toString, même si cela fonctionne cela gaspile de l'espace mémoire.
+
